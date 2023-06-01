@@ -1,4 +1,7 @@
+<p align = center><img src = 'https://scontent.fmnl17-1.fna.fbcdn.net/v/t39.30808-6/307363323_117078711131433_903154364282393764_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFhH9Y3UlN5SbuniB9mX4O-ZJugoLWIF9xkm6CgtYgX3GJRrMdhxu--mc_wzrqzp_-l2zSZQQuk781VaRScua9j&_nc_ohc=7Cmv-zBT1WMAX9H_amr&_nc_ht=scontent.fmnl17-1.fna&oh=00_AfB5hu6NLrBi-PO1TCuTS562IEJQC2xu3d60V1TPmaLisA&oe=647E3420'></p>
+
 # Welcome To The GDSC - UE Github Organization
+
 A community group for college and university students interested in Google developer technologies.
 
 <br/>
