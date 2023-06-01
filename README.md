@@ -24,6 +24,6 @@ The clubs promote soft skills training, entrepreneurship, and leadership develop
 
 Furthermore, GDSC members actively engage in community-driven projects and initiatives that aim to address real-world challenges. These projects often focus on leveraging technology for social impact, such as developing solutions for education, healthcare, sustainability, and other areas where technology can make a positive difference.
 
+<br/>
 
-
-### <p align=center>© 2023 Google Developer Student's Club UE Caloocan</p>
+#### <p align=center>© 2023 Google Developer Student's Club UE Caloocan</p>
